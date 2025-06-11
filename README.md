@@ -30,7 +30,7 @@ These projects demonstrate our hands-on experience with the data science lifecyc
         Compared different models and summarized key findings.
 
     Skills: Full pipeline implementation, reporting, model comparison.
-Pipeline Stages & Achievements 
+#### Pipeline Stages: 
     
 1.	Data Collection:  
 •	Engineered robust web scraping system using Selenium and Beautiful Soup, using it to scrap Letterboxd
