@@ -30,6 +30,27 @@ These projects demonstrate our hands-on experience with the data science lifecyc
         Compared different models and summarized key findings.
 
     Skills: Full pipeline implementation, reporting, model comparison.
+Pipeline Stages & Achievements 
+    
+1.	Data Collection:  
+•	Engineered robust web scraping system using Selenium and Beautiful Soup, using it to scrap Letterboxd
+
+3.	Data Preprocessing:  
+•	Performed extensive cleaning, handling inconsistencies and formatting issues
+
+5.	Feature Engineering:  
+•	Created novel engagement metrics from user interaction data 
+•	Applied one-hot encoding for categorical variables
+
+7.	Exploratory Analysis:  
+•	Uncovered correlations between movie features and rating 
+•	Visualized various movie feature data
+
+9.	Modeling:  
+•	Implemented 5 ML models (SVM, Neural Networks, Linear Regression, KNN, Decision Trees) 
+•	Optimized using Bayesian hyperparameter tuning 
+•	Applied PCA to improve model performance 
+
     
 ### HW1 – Data Exploration & Summary Statistics
 
